@@ -1,4 +1,4 @@
-<!-- thank_you.php -->
+<!-- remerciement pour les adresses -->
 
 <!DOCTYPE html>
 <html lang="en">
